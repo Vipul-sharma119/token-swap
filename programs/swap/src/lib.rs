@@ -9,7 +9,7 @@ pub use constants::*;
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("DAehvmx2vZoWCJi7Qo3Y4YF5vrEWHQRJ288kqKwDy5DV");
+declare_id!("GrLWsaCvcp1cCSPTcVqzAr5He913p9RY6gaUCQCRgtor");
 
 #[program]
 pub mod swap {
